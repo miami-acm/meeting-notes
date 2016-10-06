@@ -1,0 +1,8 @@
+INTERVIEW QUESTION - Using the words from dictionary, make a shortest word from the car plate (Google Question)
+
+JavaScript presentation by VP
+
+We request funding for:
+Hololens
+Parrot
+Amazon Alexa Skills
