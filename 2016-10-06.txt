@@ -1,8 +1,20 @@
-INTERVIEW QUESTION - Using the words from dictionary, make a shortest word from the car plate (Google Question)
+INTERVIEW QUESTION - Using the words from dictionary, make a shortest word from the letters in the license plate (Google Question)
+Possible solution:
+1. Sort the dictionary order of length.
+2. Using the letters at the license plate, find the word in the dictionary starting from the shortest word of the shortest dictionary. The first word found must be the shortest word.
 
-JavaScript presentation by VP
+If anyone going to hackathon for either UC, MHacks, or Kent State, let us know.
+
+JavaScript presentation by VP (http://mattdepero.com/javascript-tutorial)
+- Why we use javascript? Interpreted, single-threaded language
+- What is using JS? Browser, AJAX, Server side
+- Various libraries
+- Security issues: ex. cross site scripting (NEVER NEVER DO THIS)
+
 
 We request funding for:
 Hololens
 Parrot
 Amazon Alexa Skills
+
+We are forming the teams for OSU Hack 2016
