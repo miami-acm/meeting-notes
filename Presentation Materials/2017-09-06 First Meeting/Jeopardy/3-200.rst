@@ -1,3 +1,8 @@
 3-$200
 ======
 
+::
+
+    name = 'John Doe'
+
+.. Answer: What is a string?

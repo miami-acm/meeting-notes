@@ -1,3 +1,6 @@
 4-$100
 ======
 
+The file extension for Python code files.
+
+.. Answer: What is ``.py``?

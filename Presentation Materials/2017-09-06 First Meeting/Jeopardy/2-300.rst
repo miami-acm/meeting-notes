@@ -1,3 +1,6 @@
 2-$300
 ======
 
+This module is useful for making sure your code works like it should.
+
+.. Answer: What is ``unittest``?

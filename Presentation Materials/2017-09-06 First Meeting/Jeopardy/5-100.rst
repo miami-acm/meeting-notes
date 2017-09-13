@@ -1,3 +1,6 @@
 5-$100
 ======
 
+Means that the same Python code works on any device.
+
+.. Answer: What is cross platform?

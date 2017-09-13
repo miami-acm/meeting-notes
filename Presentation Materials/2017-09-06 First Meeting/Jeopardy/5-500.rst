@@ -1,3 +1,11 @@
 5-$500
 ======
 
+Means variables can store any type of data.
+
+Example::
+
+    x = 5
+    x = 'foo'
+
+.. Answer: What is dynamic typing?

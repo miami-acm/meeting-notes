@@ -1,3 +1,8 @@
 1-$100
 ======
 
+This is the name of the following program::
+
+    print('Hello world!')
+
+.. Answer: What is Hello World!
