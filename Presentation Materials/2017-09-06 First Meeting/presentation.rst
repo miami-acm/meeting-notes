@@ -37,7 +37,7 @@ What we do
 "So... What is Python, again?"
 ==============================
 
-* Machine-independant language (same code works on Macs and PCs)
+* Cross-platform language (same code works on Macs and PCs)
 * Open source (basically means it's free to use for any purpose)
 * Elegant code (Python people call it "pythonic code")
 * Simple
