@@ -16,8 +16,17 @@ Hey there!
 
 ----
 
-We're going to make our own calculator
-======================================
+Obligatory joke
+===============
+
+.. image:: https://imgs.xkcd.com/comics/sandwich.png
+
+(https://xkcd.com/149/)
+
+----
+
+Today, we're going to make our own calculator
+=============================================
 
 .. Before we start, let's divide into pairs
 
