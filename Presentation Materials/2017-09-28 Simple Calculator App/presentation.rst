@@ -112,3 +112,15 @@ So here's the plan (cont'd)
 * Final program
 
     * Enable the user to reset the previous result to zero by pressing ``c``
+
+----
+
+Conclusion
+==========
+
+We made a fully-functioning basic calculator!
+
+Notes:
+
+* Parker Johnston, a recruiter from Brooksource and Nationwide,
+  is coming to Miami next Wedensday (Oct 8th) from 5:30-7:30pm in EGB 270
