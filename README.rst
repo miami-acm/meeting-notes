@@ -4,5 +4,5 @@ ACM Public Materials
 Table of Contents
 -----------------
 
-* `Presentation Slides <Presentation Materials/>`_
-* `Meeting minutes <Meeting Minutes/>`_
+* `Presentation Slides <Presentation%20Materials/>`_
+* `Meeting minutes <Meeting%20Minutes/>`_
