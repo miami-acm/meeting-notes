@@ -28,7 +28,45 @@ Obligatory joke
 Today, we're going to make our own calculator
 =============================================
 
-.. Before we start, let's divide into pairs
+.. note::
+  Before we start, let's divide into pairs
+
+----
+
+So here's the plan
+==================
+
+* Simple program
+
+    * Asks the user for two numbers, adds them together, and prints the result
+
+* Basic program
+
+    * In addition to the above,
+      the user can specify use the basic four math functions
+    
+        * add
+        * subtract
+        * multiply
+        * divide
+
+----
+
+So here's the plan (cont'd)
+===========================
+        
+* Looping program
+
+    * Repeats the above until the user enters ``q``
+
+* Better program
+
+    * Use the result of the previous operation as the first number
+    * Ask the user only for one number
+
+* Final program
+
+    * Enable the user to reset the previous result to zero by pressing ``c``
 
 ----
 
@@ -77,48 +115,15 @@ Variables can be specified by the user
 
 ----
 
-So here's the plan
-==================
-
-* Simple program
-
-    * Asks the user for two numbers, adds them together, and prints the result
-
-* Basic program
-
-    * In addition to the above,
-      the user can specify use the basic four math functions
-    
-        * add
-        * subtract
-        * multiply
-        * divide
-
-* Looping program
-
-    * Repeats the above until the user enters ``q``
-
-----
-
-So here's the plan (cont'd)
-===========================
-
-
-* Better program
-
-    * Use the result of the previous operation as the first number
-    * Ask the user only for one number
-
-* Final program
-
-    * Enable the user to reset the previous result to zero by pressing ``c``
-
-----
-
 Conclusion
 ==========
 
 We made a fully-functioning basic calculator!
+
+----
+
+Ending notes
+============
 
 Notes:
 

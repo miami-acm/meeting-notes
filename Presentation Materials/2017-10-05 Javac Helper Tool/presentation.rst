@@ -79,6 +79,17 @@ Example:
 
 ----
 
+``subprocess`` module
+=====================
+
+Run other programs from Python
+
+.. code-block:: python
+
+    process = subprocess.run(('ping', 'miamioh.edu'))
+
+----
+
 Let's get to it!
 ================
 
