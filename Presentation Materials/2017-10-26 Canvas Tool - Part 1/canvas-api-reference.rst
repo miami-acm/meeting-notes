@@ -43,8 +43,6 @@ See the following:
 ``Course``
 ----------
 
-* ``list_multiple_submissions(**kwargs)``: List submissions for multiple assignments.
-  Get all existing submissions for a given set of students and assignments.
 * ``get_assignments(**kwargs)``: List all of the assignments in this course.
 * ``get_quizzes(**kwargs)``: Return a list of quizzes belonging to this course.
 * ``list_tabs(**kwargs)``: List available tabs for a course. Returns a list of navigation tabs available in the current context.
@@ -53,11 +51,6 @@ See the following:
 --------------
 
 * ``points_possible``
-
-``Submission``
---------------
-
-* ``grade``: The grade for the submission
 
 When in doubt
 -------------
