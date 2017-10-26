@@ -48,6 +48,8 @@ Installing:
 
 Requires an access token
 
+----
+
 ``canvasapi``
 =============
 
@@ -75,6 +77,8 @@ Getting courses
 
    for course in canvas.get_courses():
       print(course)
+
+----
 
 Getting Assignments for a given Course
 ======================================
