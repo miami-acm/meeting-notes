@@ -29,7 +29,7 @@ Hello again!
 .. What are we doing today?
 
 Today we are making an app for Canvas
--------------------------------------
+=====================================
 
 * Using a module called ``canvasapi`` from the University of Central Florida
 
@@ -38,7 +38,7 @@ Today we are making an app for Canvas
 .. What do we need to know in order to do it?
 
 ``canvasapi``
--------------
+=============
 
 Installing:
 
@@ -49,7 +49,7 @@ Installing:
 Requires an access token
 
 ``canvasapi``
--------------
+=============
 
 The basics
 
@@ -69,7 +69,7 @@ The basics
 ----
 
 Getting courses
----------------
+===============
 
 .. code-block:: python
 
@@ -77,7 +77,7 @@ Getting courses
       print(course)
 
 Getting Assignments for a given Course
---------------------------------------
+======================================
 
 .. code-block:: python
 
