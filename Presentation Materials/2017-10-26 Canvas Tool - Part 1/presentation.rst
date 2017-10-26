@@ -46,7 +46,11 @@ Installing:
 
    pip3 install canvasapi --user
 
-Requires an access token
+Requires a Canvas access token
+
+#. Go to Settings
+#. "Approved Integrations"
+#. "New Access Token"
 
 ----
 
