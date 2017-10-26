@@ -17,7 +17,7 @@ Hello again!
 ----
 
 .. image:: https://imgs.xkcd.com/comics/real_programmers.png
-   :height: 600px
+   :height: 500em
 
 Real programmers set the universal constants at the start
 such that the universe evolves to contain the disk with the data they want.
