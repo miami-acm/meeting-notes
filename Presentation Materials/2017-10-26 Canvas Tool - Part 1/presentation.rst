@@ -84,7 +84,7 @@ Getting courses
 
 ----
 
-Getting Assignments for a given Course
+Getting assignments for a given course
 ======================================
 
 .. code-block:: python
