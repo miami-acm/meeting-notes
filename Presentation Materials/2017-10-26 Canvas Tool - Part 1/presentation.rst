@@ -16,13 +16,13 @@ Hello again!
 
 ----
 
-.. image:: https://imgs.xkcd.com/comics/infrastructures.png
+.. image:: https://imgs.xkcd.com/comics/real_programmers.png
    :height: 600px
 
-:title: The heartfelt tune it plays is CC licensed,
-   and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+Real programmers set the universal constants at the start
+such that the universe evolves to contain the disk with the data they want.
 
-(https://xkcd.com/743/)
+(https://xkcd.com/378/)
 
 ----
 
