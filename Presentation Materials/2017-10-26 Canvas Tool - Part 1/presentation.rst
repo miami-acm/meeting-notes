@@ -106,6 +106,15 @@ The plan
 
    * See the API under today's folder in `miami-acm/public-materials`_
 
+Some ideas to get you going
+---------------------------
+
+* Get grades for submissions
+* Calculate class grade from graded submissions
+* Compute statistics on grades
+* Let the user choose the course he wants details on
+* etc.
+
 ----
 
 Conclusion
