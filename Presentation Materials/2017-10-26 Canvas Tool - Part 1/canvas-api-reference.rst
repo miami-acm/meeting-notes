@@ -36,18 +36,18 @@ Basics
 
 See the following:
 
-* ``get_courses(**kwargs)``: Return a list of active courses for the current user.
+* ``get_courses()``: Return a list of active courses for the current user.
 * ``get_course_nicknames()``: Return all course nicknames set by the current account.
-* ``list_calendar_events(**kwargs)``: List calendar events.
+* ``list_calendar_events()``: List calendar events.
 
 ``Course``
 ----------
 
-* ``list_multiple_submissions(**kwargs)``: List submissions for multiple assignments.
+* ``list_multiple_submissions()``: List submissions for multiple assignments.
   Get all existing submissions for a given set of students and assignments.
-* ``get_assignments(**kwargs)``: List all of the assignments in this course.
-* ``get_quizzes(**kwargs)``: Return a list of quizzes belonging to this course.
-* ``list_tabs(**kwargs)``: List available tabs for a course. Returns a list of navigation tabs available in the current context.
+* ``get_assignments()``: List all of the assignments in this course.
+* ``get_quizzes()``: Return a list of quizzes belonging to this course.
+* ``list_tabs()``: List available tabs for a course. Returns a list of navigation tabs available in the current context.
 
 ``Assignment``
 --------------
