@@ -70,7 +70,7 @@ The basics
    api_key = 'p@$$w0rd'
 
    # Initialize a new Canvas object
-   canvas: Canvas = Canvas(api_url, api_key)
+   canvas = Canvas(api_url, api_key)
 
 ----
 
