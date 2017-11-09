@@ -31,8 +31,11 @@ Basics
    # Initialize a new Canvas object
    canvas = Canvas(api_url, api_key)
 
+API reference
+-------------
+
 ``Canvas``
-----------
+^^^^^^^^^^
 
 See the following:
 
@@ -41,7 +44,7 @@ See the following:
 * ``list_calendar_events()``: List calendar events.
 
 ``Course``
-----------
+^^^^^^^^^^
 
 * ``list_multiple_submissions()``: List submissions for multiple assignments.
   Get all existing submissions for a given set of students and assignments.
@@ -50,12 +53,12 @@ See the following:
 * ``list_tabs()``: List available tabs for a course. Returns a list of navigation tabs available in the current context.
 
 ``Assignment``
---------------
+^^^^^^^^^^^^^^
 
 * ``points_possible``
 
 ``Submission``
---------------
+^^^^^^^^^^^^^^
 
 * ``grade``: The grade for the submission
 
