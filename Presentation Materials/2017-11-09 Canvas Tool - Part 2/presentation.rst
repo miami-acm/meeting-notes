@@ -102,6 +102,8 @@ Instance variables
 
     # ...
 
+----
+
 Advanced classes
 ================
 
@@ -141,6 +143,8 @@ Assuming we have a ``Canvas`` object, we first need to choose a ``Course``:
             print('Filename {filename}'.format(filename=file))
             print('Download URL: {url}'.format(url=file.url))
             # File to be downloaded at URL via HTTP
+
+----
 
 Requests: HTTP for Humans
 =========================
