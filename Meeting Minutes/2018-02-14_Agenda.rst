@@ -24,9 +24,7 @@ Meeting Agenda
 
 #. New business
 
-    #. Make barebones to website?
-    #. Put project on GitHub?
-    #. Other ideas for the website / project
+    #. (None)
 
 #. Other business
 #. Adjournment (state the time)
