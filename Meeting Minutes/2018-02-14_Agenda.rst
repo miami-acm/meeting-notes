@@ -4,7 +4,7 @@ Meeting Agenda
 ==============
 
 | ACM @ Miami University
-| [Time] @ [Place]
+| 6:00PM @ B.E.S.T. 113
 
 #. Call to order (state the time)
 #. Changes to the agenda
@@ -12,10 +12,13 @@ Meeting Agenda
 #. Reports
 
     #. Treasurer's Report
+    #. Report on talk with Norm and possible events
+    #. Nick Jarvis's report on whether what's wrong
+       with his registration in the chapter portal
 
 #. Old business
 
-    #. First meeting topic
+    #. First meeting & semester topic
     #. Updating the Hub
     #. Updates on events that we can run this year
 
@@ -28,4 +31,4 @@ Meeting Agenda
 #. Other business
 #. Adjournment (state the time)
 
-Next meeting: [date]
+Next meeting: 6:00PM @ 2/21
