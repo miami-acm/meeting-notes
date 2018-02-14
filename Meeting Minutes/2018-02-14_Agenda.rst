@@ -1,0 +1,31 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| [Time] @ [Place]
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+    #. Treasurer's Report
+
+#. Old business
+
+    #. First meeting topic
+    #. Updating the Hub
+    #. Updates on events that we can run this year
+
+#. New business
+
+    #. Make barebones to website?
+    #. Put project on GitHub?
+    #. Other ideas for the website / project
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: [date]
