@@ -1,0 +1,15 @@
+body {
+    /* This applies to everything within a <body> tag */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+.mlaHeader {
+
+}
+
+/* TODO: Add rule for essay title */
+
+.mlaBody {
+
+}
