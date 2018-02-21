@@ -15,14 +15,15 @@ Meeting Agenda
 
 #. Old business
 
-	#. Consider using JQuery in front-end.
+    #. Consider using JQuery in front-end.
     #. Updates on co-chair position    
     #. Updates on the server, can Miami host it, is it up right now
+    #. ACM + ACM-W event
 
 #. New business
 
     #. Goals for the first meeting, basic rundown of first meeting
-    #. Next weeks meeting contents
+    #. Next weeks meeting content.
 
 #. Other business
 #. Adjournment (state the time)
