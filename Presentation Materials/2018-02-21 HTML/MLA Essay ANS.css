@@ -2,6 +2,8 @@ body {
     /* This applies to everything within a <body> tag */
     font-family: 'Times New Roman', Times, serif;
     font-size: 12pt;
+    line-height: 200%;
+    text-indent: 0.5in;
 }
 
 p {
@@ -10,7 +12,10 @@ p {
 }
 
 .mlaHeader {
-
+    text-indent: 0;
 }
 
-/* TODO: Add rule for essay title */
+#mlaTitle {
+    text-indent: 0;
+    text-align: center;
+}
