@@ -1,0 +1,40 @@
+2018-02-21 Exec Meeting Notes
+ - Start Time: 6:02pm
+ 
+ - Attendees:
+ 	- John
+ 	- Tyler
+ 	- Nick W.
+ 	- Nick J.
+ 
+ - Amendments: nil
+ 
+ - Late additions: Discuss raspberry PI's
+ 
+ - Quorum? Yes
+ 
+ - Motions: Remove JQuery from stack unless we need it. (Nick J) John seconded. (Passed)
+ 			Have Nick J. talk to Rao about co-chair (Passed)
+ 			Instructions on GitHub repo for PipENV install. (Passed)
+ 			To do ACM and ACM-W event John and Nick J(Passed)
+ 			Next meeting: basic website unless progress in current meeting hinders (Passed)
+ 	 	 	
+ - Notes:
+ 	- Account is still in the red, no charge in 10 months
+ 	- Have a 
+ 	- Server will probably be hosted by Miami, still need confirmation
+ 		- A server on Digital Ocean is set up currently.  (still need to give access to members).
+ 	- Development Ideas
+ 		- Create "groups" and give a pi to each, and have people work in groups.
+ 		- Or have them work on it locally, and have web page up on Git and pull it from there.
+		- PipENV
+	- Next Meeting
+		- Basic website
+
+ - Tabled Items: nil
+ 
+ - Deferred Items: nil
+ 
+ - Next Meeting Time: 2/28/18
+ 
+ - Adjournment Time: 6:48
