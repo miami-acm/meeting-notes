@@ -22,6 +22,7 @@ Meeting Agenda
 #. New business
 
     #. Goals for the first meeting, basic rundown of first meeting
+    #. Next weeks meeting contents
 
 #. Other business
 #. Adjournment (state the time)
