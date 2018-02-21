@@ -1,0 +1,3 @@
+[diff "pandoc"]
+	textconv=pandoc --to=rst
+	prompt = false
