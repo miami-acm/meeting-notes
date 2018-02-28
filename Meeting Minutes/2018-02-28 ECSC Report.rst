@@ -8,7 +8,7 @@ Things they are planning:
    -  **Saturday**: Lego Competition
 
       -  Looking for orgs to join in for unity funding. ACM probably
-             won't qualify due to account debt
+         won't qualify due to account debt
 
    -  **Monday**: EWB?
 
@@ -17,7 +17,7 @@ Things they are planning:
    -  **Wednesday**: ACM, Girls Who Code, AIAA?, Banquet
 
       -  They want us to put on a VR demo. Once details are finalized,
-             send them details so they can made ads.
+         send them details so they can made ads.
 
    -  **Thursday**: Senior Design (5-7pm)
 
@@ -34,7 +34,7 @@ Things they are planning:
    -  **Friday**: Alumni Conference
 
       -  They want us to look for student volunteers to introduce the
-             speakers at the alumni conference
+         speakers at the alumni conference
 
    -  Participation Prizes:
 
