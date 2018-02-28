@@ -5,7 +5,7 @@
 Course Selection Advisory Board
 ===============================
 
-    By Kwangju Kim
+    By Kwangju Kim, Class of 2017
 
 Few tips raised by upperclassmen students to advise other students to choose the appropriate courses to take each semester.
 

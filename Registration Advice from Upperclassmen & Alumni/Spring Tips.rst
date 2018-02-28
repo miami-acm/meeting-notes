@@ -5,7 +5,7 @@
 Spring Semester Tips
 ====================
 
-    By Kwangju Kim
+    By Kwangju Kim, Class of 2017
 
 This only gives the advice for CSE courses.
 For Miami Plan, or other disciplines (PHY, BIO, CHM, ECE, MTH, STA), talk to the designated department advisors.
