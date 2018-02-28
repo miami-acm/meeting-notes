@@ -31,4 +31,4 @@ Meeting Agenda
 #. Other business
 #. Adjournment (state the time)
 
-Next meeting: [date]
+Next meeting: 3/7/18
