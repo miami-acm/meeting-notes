@@ -22,12 +22,14 @@ Meeting Agenda
     #. Updates on the Raspberry PI's (is this something we want to do)
     #. Address the React vs. JQuery situation.
     #. Posting meetings to the Hub
-    
+
 #. New business
 
     #. Possible IDE for people to use so they aren't coding on a notepad (Notepad++?)
+    #. ACM VR demo for E&C Week
+    #. E&C Week advertising: Senior Design, Alumni conference, Donuts with the Dean
     #. Open board meetings to members
-    
+
 #. Other business
 #. Adjournment (state the time)
 
