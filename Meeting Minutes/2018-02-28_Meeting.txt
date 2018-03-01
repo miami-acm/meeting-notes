@@ -66,7 +66,16 @@
  		- Atom
  		- Visual Studio Code
  		
- 	
+ 	- General Body Meeting Website Ideas
+ 		- Ideas for ACM's Website
+ 			1) Repository for useful python scripts
+ 				a) Hitch-hikers guide for python
+ 			2) About us
+ 			3) Pages about each one of our members
+ 			4) Projects Page (where people display their projects, ideas, unfinished code) (JS Packman game)
+ 			5) Jeopardy-style game (points for correct interview questions questions)
+ 			6) Contact / About us Page
+ 			7) News page / Blog
  		 	
  - Tabled Items: ReactMC vs Materialize
  
