@@ -1,4 +1,6 @@
 .. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+.. _React Materialize: https://react-materialize.github.io/
+.. _react-mc: http://guten.me/react-mc/
 
 Meeting Agenda
 ==============
@@ -15,7 +17,7 @@ Meeting Agenda
 
 #. Old business
 
-    #. ReactMC vs. Materialize
+    #. react-mc_ vs. `React Materialize`_
     #. Hosting website updates?
     #. Dr. Rao co-chair thoughts?
     #. ECSC ads / events updates
