@@ -20,10 +20,10 @@ Meeting Agenda
 #. Old business
 
     #. react-mc_ vs. `React Materialize`_
-    #. Dr. Rao co-chair thoughts?
+    #. Dr. Rao as co-chair
     #. ECSC ads / events updates
     #. Next weeks meeting topic
-    
+
 #. New business
 #. Other business
 #. Adjournment (state the time)
