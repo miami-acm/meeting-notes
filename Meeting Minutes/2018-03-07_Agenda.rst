@@ -15,13 +15,13 @@ Meeting Agenda
 
     #. Treasurer's Report
     #. Hosting website updates
+    #. ECSC ads / events updates
     #. Meetings on the Hub (Tyler)
 
 #. Old business
 
     #. react-mc_ vs. `React Materialize`_
     #. Dr. Rao as co-chair
-    #. ECSC ads / events updates
     #. Next weeks meeting topic
 
 #. New business
