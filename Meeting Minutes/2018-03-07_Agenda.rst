@@ -15,7 +15,7 @@ Meeting Agenda
 
     #. Treasurer's Report
     #. Hosting website updates
-    #. ECSC ads / events updates
+    #. ECSC ads / events updates (John)
     #. Meetings on the Hub (Tyler)
     #. react-mc_ & `React Materialize`_ walkthrough (John)
 
