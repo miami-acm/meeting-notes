@@ -17,6 +17,7 @@ Meeting Agenda
     #. Hosting website updates
     #. ECSC ads / events updates
     #. Meetings on the Hub (Tyler)
+    #. react-mc_ & `React Materialize`_ walkthrough (John)
 
 #. Old business
 
