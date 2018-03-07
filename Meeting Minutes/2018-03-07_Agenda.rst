@@ -22,9 +22,11 @@ Meeting Agenda
 
     #. react-mc_ vs. `React Materialize`_
     #. Dr. Rao as co-chair
-    #. Next weeks meeting topic
 
 #. New business
+
+    #. Next week's meeting topic
+
 #. Other business
 #. Adjournment (state the time)
 
