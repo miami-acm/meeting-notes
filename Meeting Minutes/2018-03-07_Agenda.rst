@@ -1,0 +1,28 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 3/7/18 6pm @ BEN 008
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+    #. Treasurer's Report
+
+#. Old business
+
+    #. ReactMC vs. Materialize
+    #. Hosting website updates?
+    #. Dr. Rao co-chair thoughts?
+    #. ECSC ads / events updates
+    #. Next weeks meeting topic
+    
+#. New business
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: 3/14/18
