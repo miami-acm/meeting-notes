@@ -7,10 +7,14 @@ body {
 p {
     margin-top: 0;
     margin-bottom: 0;
+    text-indent: 0.5in;
 }
 
 .mlaHeader {
-
+    text-indent: 0;
 }
 
-/* TODO: Add rule for essay title */
+#mlaTitle {
+    text-align: center;
+    text-indent: 0;
+}
