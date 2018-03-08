@@ -1,0 +1,10 @@
+{% extends "base_template.html" %}
+{% block title %}Game{% endblock %}
+{% block header %}
+{% set a = "Hello, world" %}
+{% for i in range(10) %}
+<div>
+    <p>Jarvis is super cool and doens't like {{ i }}{{ a }} programs</p>
+</div>
+{% endfor %}
+{% endblock %}
