@@ -119,5 +119,7 @@ Code along with us.
 
 ----
 
-See you next time!
-==================
+News
+====
+
+* ACM/ACM-W Movie Night 3/1 @ 7:00PM @ LAWS 100. RSVP: http://bit.ly/movieACM
