@@ -15,6 +15,9 @@ Meeting Agenda
     #. Nick Jarvas' report on Dr. Rao being co-chair
 
 #. Old business
+
+	#. Meetings being posted on the hub.
+
 #. New business
 
 	#. Windows 10 Fall Creators Update: Upgrading VR
