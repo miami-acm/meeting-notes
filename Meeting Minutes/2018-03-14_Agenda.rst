@@ -16,6 +16,9 @@ Meeting Agenda
 
 #. Old business
 #. New business
+
+	#. Windows 10 Fall Creators Update: Upgrading VR
+
 #. Other business
 
 	#. Set up Vive and everything else for meeting tonight.
