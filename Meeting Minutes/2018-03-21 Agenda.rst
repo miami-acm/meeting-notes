@@ -1,0 +1,31 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 6:00pm @ Online
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+    #. Treasurer's Report
+    #. Nick Jarvas' report on Dr. Rao being co-chair
+    #. ECSC meeting report (John)
+
+#. Old business
+
+    #. Meetings being posted on the hub.
+
+#. New business
+
+    #. Windows 10 Fall Creators Update: Upgrading VR
+    #. Next meeting's topic
+    #. VR Exploration Day activities
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: [date]
