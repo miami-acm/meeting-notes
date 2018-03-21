@@ -1,7 +1,7 @@
 .. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
 
-Meeting Agenda
-==============
+**Cancelled:** Meeting Agenda
+=============================
 
 | ACM @ Miami University
 | 6:00pm @ BEN 008
