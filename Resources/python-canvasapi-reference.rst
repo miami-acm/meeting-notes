@@ -31,6 +31,16 @@ Basics
    # Initialize a new Canvas object
    canvas = Canvas(api_url, api_key)
 
+Examples
+--------
+
+Get the courses you are enrolled in (probably includes classes from previous semesters)
+
+.. code-block:: python
+
+    for course in canvas.get_courses():
+        print(course)
+
 API reference
 -------------
 

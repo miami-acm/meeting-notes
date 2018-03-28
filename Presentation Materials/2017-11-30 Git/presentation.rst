@@ -115,12 +115,10 @@ Another note on history
 
 See the History tab (``git log``).
 
-.. note::
+Notice that we are now listed at the top.
 
-   Notice that we are now listed at the top.
-
-   It's worth noting that we won't show up on any other computer
-   since we have not uploaded these changes.
+It's worth noting that we won't show up on any other computer
+since we have not uploaded these changes.
 
 ----
 

@@ -1,0 +1,34 @@
+2018-03-07 Exec Meeting Notes
+ - Start Time: 6:03pm
+ 
+ - Attendees:
+ 	- John
+ 	- Tyler
+ 	- Nick W.
+ 	- Nick J.
+ 
+ - Amendments: nil
+ 
+ - Late additions: nil
+ 
+ - Quorum? Yes
+ 
+ - Motions: Amend last weeks minutes, to react and material design as this weeks topic (passed)
+ 			Use React Materialize instead of ReactMC (passed)
+ 				 	
+ - Notes:
+ 	- Account still at ~ -$1300.
+ 	- No new news on ECSC
+ 	- Host on DigitalOcean until we have a finished product
+ 	- React Materialize vs. React MC
+ 		- We will be using React Materialize
+	- 
+ 	
+ 	
+ - Tabled Items: Run the site locally (do we need this or not.)
+ 
+ - Deferred Items:  Nick J. talk with Rao about co-chair and what he would like to see the club do.
+ 
+ - Next Meeting Time: 3/14/18
+ 
+ - Adjournment Time: 7pm
