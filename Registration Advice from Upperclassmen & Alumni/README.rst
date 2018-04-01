@@ -25,7 +25,7 @@ This is important because if you miss it, your desired courses might be filled u
 
 **See your advisor.** Typically, academic advisors are the primary persons who can help you choose the course, adjust the schedule, or request the force add.
 Go to BannerWeb_, print your Degree Audit Report (DAR), bring that to your advisor so that the person can know more about your current academic status.
-`Making an appointment <http://meeting.krumpe.com/>`_ with Norm Krumpe_ is another good idea.
+`Making an appointment <http://meeting.krumpe.com/>`_ with `Norm Krumpe`_ is another good idea.
 He is a chief advisor who is responsible for giving advice to current and prospective CSE students.
 If you are a first year student, you might or might not have your designated first-year advisor.
 If so, it is not a bad idea to talk to them, too.
