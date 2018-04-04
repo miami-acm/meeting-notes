@@ -11,7 +11,7 @@ Meeting Agenda
 #. Approval of minutes
 #. Reports
 
-    #. Treasurer's Report
+	#. Treasurer's Report
 	#. Exec pages completed?
 	#. Which week will ECSC rep come and talk to club?
 	#. Updates to VR game list?
