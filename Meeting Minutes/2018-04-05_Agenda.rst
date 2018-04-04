@@ -1,0 +1,29 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 2/28/18 6pm @ BEN 008
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+    #. Treasurer's Report
+
+#. Old business
+
+	#. Exec pages completed?
+	#. Which week will ECSC rep come and talk to club?
+	#. Updates to VR game list?
+
+#. New business
+
+	#. Co-Chair position: pursue Rao, or another professor.
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: [date]
