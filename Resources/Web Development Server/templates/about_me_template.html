@@ -37,13 +37,13 @@
                 </div>
             </div>
         </nav>
-        <div class="container col-sm-8 col-sm-offset-2" style="background: #fff; height: 100%;">
+        <div class="container col-sm-8 col-sm-offset-2" style="background: #fff; overflow-y: auto;">
             <h1>{% block name %}{% endblock %}</h1>
             <!-- Image | Student Status
                  ---------------------
                  bullet list of interesting things
             -->
-            
+
             <div class="row top_info">
                 <div class="col-sm-12 col-md-3">
                     <img src="{% block image %}{% endblock %}" class="img-responsive">
@@ -52,10 +52,19 @@
                     {% block student_info %}{% endblock %}
                 </div>
             </div>
-            <div class="container">
+            <div class="container col-sm-12">
                 <h3>Interesting Facts About Me</h3>
                 <ul>
                     {% block facts %}{% endblock %}
+                </ul>
+            </div>
+
+            <div class="container col-sm-12">
+                <h3>Link to {{ user | upper }}'s Merch</h3>
+                <ul>
+                    {% block merch %}
+                        <li>Default Value</li>
+                    {% endblock %}
                 </ul>
             </div>
         </div>
