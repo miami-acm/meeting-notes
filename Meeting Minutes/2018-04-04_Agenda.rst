@@ -12,13 +12,11 @@ Meeting Agenda
 #. Reports
 
     #. Treasurer's Report
-
-#. Old business
-
 	#. Exec pages completed?
 	#. Which week will ECSC rep come and talk to club?
 	#. Updates to VR game list?
 
+#. Old business
 #. New business
 
 	#. Co-Chair position: pursue Rao, or another professor.
