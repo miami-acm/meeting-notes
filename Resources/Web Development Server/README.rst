@@ -15,3 +15,8 @@ If this gives an error, delete your ``~/.virtualenvs/`` directory and try instal
 To run the server, execute::
 
   pipenv run python server.py
+
+License
+-------
+
+MIT license except static assets under ``static/``.
