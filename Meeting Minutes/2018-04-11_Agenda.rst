@@ -19,12 +19,15 @@ Meeting Agenda
     
 
 #. Old business
+
+    #. This weeks meeting structure
+
 #. New business
 
-	#. Next weeks meeting topic
-	#. Elections, new exec taking over, update transition guide.
-	#. Adding general body meeting times to the hub
-	#. Someone managing the chapter e-mail
+    #. Next weeks meeting topic
+    #. Elections, new exec taking over, update transition guide.
+    #. Adding general body meeting times to the hub
+    #. Someone managing the chapter e-mail
 
 #. Other business
 #. Adjournment (state the time)
