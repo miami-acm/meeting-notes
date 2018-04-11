@@ -1,0 +1,50 @@
+.. Structure modeled after https://www.boardeffect.com/blog/how-to-take-minutes-at-a-board-meeting/
+
+Meeting Minutes
+===============
+
+| ACM @ Miami University
+| Date: April 11, 2018
+
+* Called to order at: 6:19pm
+* Participants and absentees
+
+    * John Meyer: Present
+    * Nick Wayne: Present
+    * Nick Jarvis: Present
+    * Tyler Davis: Present
+
+* Amendments to previous minutes
+* Additions to the current agenda
+* Quorum present
+* Motions
+
+	* John: Complete home, about us, contact us, pages by next week (passed)
+		* Home page (John)
+		* About us page (Jarvis)
+		* Contact Us (Nick W.)
+	* John: New exec members will have a slow transition as well as better transition guide (passed)
+		* Update exec transition guide (Tyler)
+	* John: Add DOW and time of meetings to the hub (passed)
+	* John: Someone manages the ACM email account (passed)
+		* Jarvis will do this (Vice-President)
+
+* Notes
+
+	* Treasures report: -$1300
+	* Materialize transfer is done
+	* VR Game list
+	* ECSC Meeting
+		* Alumni Connect website
+		* Competition is a pizza/ice cream party
+		* Something with the dean, but they are lost as to how to do it
+	
+	* Next meetings topic:
+		* Actually creating stuff
+		
+* Due dates
+	
+	Update exec transition guide 4/25/18 (Tyler)
+
+* Next meeting time: Wednesday April 18th @ 6 PM in BEN 008
+* Adjournment time: 6:45pm
