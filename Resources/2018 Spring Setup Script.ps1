@@ -12,7 +12,7 @@ if (!(command py 2> $null) -and !(command python 2> $null)) {
 }
 
 if (!(command pipenv 2> $null)) {
-    # https://www.python.org/
+    # https://docs.pipenv.org/
     echo "Installing Pipenv"
     pip3 install pipenv
 }
