@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if ! command -v brew > /dev/null ; then
     # https://brew.sh/
     echo "Installing Homebrew"

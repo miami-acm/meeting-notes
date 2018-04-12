@@ -1,3 +1,5 @@
+#!/usr/bin/env powershell
+
 if (!(command scoop 2> $null)) {
     # http://scoop.sh/
     echo "Installing Scoop"
