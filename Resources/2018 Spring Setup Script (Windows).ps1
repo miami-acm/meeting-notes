@@ -4,7 +4,7 @@ if (!(command scoop 2> $null)) {
     # http://scoop.sh/
     Write-Output "Installing Scoop"
     Set-ExecutionPolicy RemoteSigned -scope CurrentUser
-    iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+    Invoke-Expression (new-object net.webclient).downloadstring('https://get.scoop.sh')
 }
 
 if (!(command py 2> $null) -and !(command python 2> $null)) {
