@@ -20,17 +20,17 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://%(user)s:\%(pw)s@%(host)s:
 db.init_app(app)
 
 class Question(db.Model):
-	__tablename__ = "questions"
-	id = db.Column(db.Integer, primary_key=True)
-	question = db.Column(db.String(100), primary_key=True)
-	answer = db.Column(db.String(100), primary_key=True)
-	
-	def __init__(self, question, answer):
-		self.question = question
-		self.answer = answer
-		
-	def __repr__(self):
-		return "{}? {}".format(self.question, self.answer)
+    __tablename__ = "questions"
+    id = db.Column(db.Integer, primary_key=True)
+    question = db.Column(db.String(100), primary_key=True)
+    answer = db.Column(db.String(100), primary_key=True)
+
+    def __init__(self, question, answer):
+        self.question = question
+        self.answer = answer
+
+    def __repr__(self):
+        return "{}? {}".format(self.question, self.answer)
 
 @app.route('/')
 def hello_world():
@@ -46,8 +46,8 @@ def about(name=None):
 
 @app.route('/dbtest')
 def dbtest():
-	print(Question.query.all())
-	return repr(Question.query.all())
+    print(Question.query.all())
+    return repr(Question.query.all())
 
 if __name__ == '__main__':
     webbrowser.open('http://localhost:5000/dbtest')
