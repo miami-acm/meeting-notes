@@ -17,3 +17,15 @@ if ! command -v pipenv > /dev/null ; then
     echo "Installing Pipenv"
     pip3 install pipenv
 fi
+
+if ! command -v pg_ctl > /dev/null ; then
+    # https://www.postgresql.org/
+    echo "Installing PostgreSQL"
+    brew install postgresql
+fi
+
+if ! command -v make > /dev/null ; then
+    # https://www.gnu.org/software/make/
+    echo "Installing GNU make"
+    brew install make
+fi

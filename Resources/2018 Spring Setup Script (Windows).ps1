@@ -18,3 +18,15 @@ if (!(command pipenv 2> $null)) {
     echo "Installing Pipenv"
     pip3 install pipenv
 }
+
+if (!(command pg_ctl 2> $null)) {
+    # https://www.postgresql.org/
+    echo "Installing PostgreSQL"
+    scoop install postgresql
+}
+
+if (!(command make 2> $null)) {
+    # https://www.gnu.org/software/make/
+    echo "Installing GNU make"
+    scoop install make
+}

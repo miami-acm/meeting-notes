@@ -4,17 +4,15 @@
 Flask Development Server
 ========================
 
-First, if you have not done so already, use Pipenv_ to install Flask_::
+Use the ``Makefile`` we've made for your convenience. It has the following commands::
 
-  pipenv install
+  make init
+  make run
+  make stop
 
-If this gives an error, delete your ``~/.virtualenvs/`` directory and try installing again::
+If ``pipenv install`` gives an error, delete your ``~/.virtualenvs/`` directory and try installing again::
 
   rm ~/.virtualenvs/ -R
-
-To run the server, execute::
-
-  pipenv run python server.py
 
 License
 -------
