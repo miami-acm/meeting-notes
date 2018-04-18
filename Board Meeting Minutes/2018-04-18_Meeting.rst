@@ -1,0 +1,54 @@
+.. Structure modeled after https://www.boardeffect.com/blog/how-to-take-minutes-at-a-board-meeting/
+
+Meeting Minutes
+===============
+
+| ACM @ Miami University
+| Date: April 18, 2018
+
+* Called to order at: 6:00pm
+* Participants and absentees
+
+    * John Meyer: Present
+    * Nick Wayne: Present
+    * Nick Jarvis: Present
+    * Tyler Davis: Present
+
+* Amendments to previous minutes
+* Additions to the current agenda
+* Quorum present
+* Motions
+
+	* Jarvis: Approve last weeks minutes (passed)
+	* John: Finish webpage (completing jeopardy and coding questions) (passed)
+		* Use jeopardy questions from first meeting
+	* John: pull interview questions from HackerRank, CodingBat, and Coding books assigned to Tyler (passed)
+	* John: Keep website repo as is, unless required by hosting service, then make a submodule from commit (passed)
+	* John: CEC Picnic May 14th 6 - 8pm? (passed)
+	
+* Notes
+
+	* Pages are finished (except nick w.) and look super naisu
+	* Date and time are on the hub now, as well as our github repo
+	* E&C Week Banquet
+		* Wed May 2nd 6 at Armstrong Pavilion A + B.
+	* Emails
+		* Missing vice-chair officer (April 1st)
+	* CEC Picnic
+		* Tell Norm that we are interested in hosting it, joint thing with ACM-W
+		* Cornhole, horshoe, frisbee, vollyball.
+	* Next weeks topic
+		* Elections
+		* Small meeting (finalizing website)
+	* Throughout the rest of the year we will finish website pages and start to add:
+		* Jeopardy using database
+		* Coding challenge using database
+		* Potentially putting a google calendar with all of our events.
+		
+		
+* Due dates
+	
+	Update exec transition guide 4/25/18 (Tyler)
+
+* Next meeting time: Wednesday April 25th @ 6 PM in BEN 008
+* Adjournment time: 6:51pm
