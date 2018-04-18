@@ -20,6 +20,7 @@ Meeting Agenda
 #. New business
 
 	#. Next weeks meeting topic
+	#. ACM CSE Picnic
 
 #. Other business
 #. Adjournment (state the time)
