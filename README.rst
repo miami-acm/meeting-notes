@@ -1,6 +1,10 @@
 ACM Public Materials
 ====================
 
+General-body meetings are from 7-8pm in BEN 008.
+
+Board meetings are from 6-7pm in BEN 008. All members are welcome.
+
 Table of Contents
 -----------------
 
