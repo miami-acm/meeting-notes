@@ -53,11 +53,15 @@ def about(name=None):
 
     return render_template("about_{0}.html".format(name), user=name)
 
+@app.route('/contact')
+def contact():
+    return render_template("contact.html")
+
 @app.route('/dbtest')
 def dbtest():
     print(Question.query.all())
     return repr(Question.query.all())
 
 if __name__ == '__main__':
-    webbrowser.open('http://localhost:5000/')
+#    webbrowser.open('http://localhost:5000/')
     app.run(host='0.0.0.0', port=5000)
