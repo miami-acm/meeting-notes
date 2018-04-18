@@ -1,5 +1,5 @@
-ACM Public Materials
-====================
+ACM @ Miami University
+======================
 
 General-body meetings are from 7-8pm in BEN 008.
 
