@@ -21,6 +21,7 @@ Meeting Agenda
 
 	#. Next weeks meeting topic
 	#. ACM CSE Picnic
+	#. E&C Week Banquet
 
 #. Other business
 #. Adjournment (state the time)
