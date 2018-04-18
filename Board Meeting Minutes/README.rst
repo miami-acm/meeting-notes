@@ -1,6 +1,8 @@
 Secretary Notes
 ===============
 
+**Every Wednesday from 6-7pm in BEN 008.**  All members are welcome.
+
 Meeting minutes go here.
 
 Dates are to be in the format ``YYYY-MM-DD``.

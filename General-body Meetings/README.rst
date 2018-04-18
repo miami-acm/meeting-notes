@@ -3,6 +3,8 @@
 Presentations
 =============
 
+**Every Wednesday from 7-8pm in BEN 008.**
+
 Here are the slides we use during our meetings.
 
 Each folder uses pipenv_ to keep track of dependencies.

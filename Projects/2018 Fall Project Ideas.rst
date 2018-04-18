@@ -1,5 +1,5 @@
-ACM Brainstorm
-==============
+Brainstorm for ACM 2018 Fall Semester
+=====================================
 
 .. For a list of useful Python modules, see https://wiki.python.org/moin/UsefulModules
 
