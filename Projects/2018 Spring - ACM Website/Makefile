@@ -15,7 +15,7 @@ stop: .stop-database-server
 
 .start-database-server:
 	@echo Step 2: Start database server
-	$(if pg_ctl status, @echo Database is already started, pg_ctl start)
+	$(if $(shell pg_ctl status | grep "PID"), @echo Database is already started, pg_ctl start)
 
 # TODO: Supress error output from $(shell cat) in Windows environments
 .setup-database:
@@ -26,7 +26,7 @@ stop: .stop-database-server
 
 .stop-database-server:
 	@echo Step 4: Stop database server
-	$(if pg_ctl status, @echo Database is already stopped, pg_ctl stop)
+	$(if $(shell pg_ctl status | grep "PID"), pg_ctl stop, @echo Database is already stopped)
 
 .start-server:
 	@echo Step 3: Start Python (Flask) server
