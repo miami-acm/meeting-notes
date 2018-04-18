@@ -15,8 +15,8 @@
             <div class="nav-wrapper">
                 <a href="#" class="brand-logo">Miami University ACM</a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about">About Us</a></li>
                     <li><a href="#">Contact</a></li>
                     <li><a href="#">Projects</a></li>
                 </ul>
@@ -24,7 +24,7 @@
             <div class="nav-content">
                 <ul class="tabs tabs-transparent hide-on-med-and-up show-on-medium">
                     <li class="tab"><a href="/">Home</a></li>
-                    <li class="tab"><a href="/">About Us</a></li>
+                    <li class="tab"><a href="/about">About Us</a></li>
                     <li class="tab"><a href="/">Contact</a></li>
                     <li class="tab"><a href="/">Projects</a></li>
                 </ul>
@@ -43,21 +43,21 @@
                     <img src="{% block image %}{% endblock %}" class="responsive-img">
                 </div>
                 <div class="col s9">
-                    <ol>
+                    <ul class="browser-default">
                         {% block student_info %}{% endblock %}
-                    </ol>
+                    </ul>
                 </div>
             </div>
             <div class="col s12">
                 <h3>Interesting Facts About Me</h3>
-                <ul class="collection">
+                <ul class="browser-default">
                     {% block facts %}{% endblock %}
                 </ul>
             </div>
 
             <div class="col s12">
                 <h3>Link to {{ user | upper }}'s Merch</h3>
-                <ul>
+                <ul class="browser-default">
                     {% block merch %}
                         <li>Default Value</li>
                     {% endblock %}
