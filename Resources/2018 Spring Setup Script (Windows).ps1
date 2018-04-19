@@ -13,6 +13,13 @@ if (!(command py 2> $null) -and !(command python 2> $null)) {
     scoop install python3
 }
 
+if (!(command pip3 2> $null)) {
+    # Python is installed but pip is not in PATH
+    # This is probably due to a system installation (not via scoop)
+    $SystemPythonInstallations = Get-ChildItem C:\Python3*
+    $env:PATH += ";C:\$($SystemPythonInstallations[-1])\Scripts"
+}
+
 if (!(command pipenv 2> $null)) {
     # https://docs.pipenv.org/
     Write-Output "Installing Pipenv"
