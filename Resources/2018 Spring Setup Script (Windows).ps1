@@ -16,7 +16,7 @@ if (!(command py 2> $null) -and !(command python 2> $null)) {
 if (!(command pipenv 2> $null)) {
     # https://docs.pipenv.org/
     Write-Output "Installing Pipenv"
-    pip3 install pipenv
+    pip3 install pipenv --user
 }
 
 if (!(command pg_ctl 2> $null)) {

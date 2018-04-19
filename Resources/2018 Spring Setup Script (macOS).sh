@@ -15,7 +15,7 @@ fi
 if ! command -v pipenv > /dev/null ; then
     # https://docs.pipenv.org/
     echo "Installing Pipenv"
-    pip3 install pipenv
+    pip3 install pipenv --user
 fi
 
 if ! command -v pg_ctl > /dev/null ; then
