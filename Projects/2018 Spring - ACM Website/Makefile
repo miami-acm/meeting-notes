@@ -5,13 +5,16 @@ run: .start-database-server .start-server .stop-database-server
 
 stop: .stop-database-server
 
+lint:
+	pipenv run pycodestyle ./ --ignore=W605
+
 # Download any files not allowed to be stored in this repo for copyright reasons
 .download-assets:
 	@echo Step 0: Download additional online assets
 
 .install-python-dependencies:
 	@echo Step 1: Install Python dependencies with Pipenv
-	pipenv install
+	pipenv install --dev
 
 .start-database-server:
 	@echo Step 2: Start database server

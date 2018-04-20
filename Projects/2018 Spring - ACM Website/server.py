@@ -15,8 +15,8 @@ USE_DB = False
 if USE_DB:
     POSTGRES = {
         'user': 'jarvisna',
-        'pw':   '',
-        'db':   'jarvisna',
+        'pw': '',
+        'db': 'jarvisna',
         'host': 'localhost',
         'port': '5432',
     }

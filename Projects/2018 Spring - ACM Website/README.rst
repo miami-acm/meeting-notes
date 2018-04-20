@@ -9,6 +9,7 @@ Use the ``Makefile`` we've made for your convenience. It has the following comma
   make init
   make run
   make stop
+  make lint
 
 If ``pipenv install`` gives an error, delete your ``~/.virtualenvs/`` directory and try installing again::
 
