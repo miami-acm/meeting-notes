@@ -55,6 +55,7 @@ def about(name=None):
         non_base_template_filenames = (filename
                                        for (filename, _) in template_files
                                        if not filename.endswith('template')
+                                       and filename.startswith('about_')
                                        and filename != 'about_us')
         member_names = map(
             lambda filename: filename.replace('about_', '', 1).title(),
