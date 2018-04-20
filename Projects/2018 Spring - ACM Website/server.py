@@ -21,9 +21,11 @@ if USE_DB:
         'port': '5432',
     }
 
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://%(user)s:\%(pw)s@%(host)s:%(port)s/%(db)s' % POSTGRES
+    app.config['SQLALCHEMY_DATABASE_URI'] = \
+        'postgresql://%(user)s:\%(pw)s@%(host)s:%(port)s/%(db)s' % POSTGRES
 
     db.init_app(app)
+
 
 class Question(db.Model):
     __tablename__ = "questions"
@@ -38,9 +40,11 @@ class Question(db.Model):
     def __repr__(self):
         return "{}? {}".format(self.question, self.answer)
 
+
 @app.route('/')
 def hello_world():
     return render_template("home.html")
+
 
 @app.route('/about/<name>')
 @app.route('/about')
@@ -59,14 +63,17 @@ def about(name=None):
 
     return render_template("about_{0}.html".format(name), user=name)
 
+
 @app.route('/contact')
 def contact():
     return render_template("contact.html")
+
 
 @app.route('/dbtest')
 def dbtest():
     print(Question.query.all())
     return repr(Question.query.all())
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
