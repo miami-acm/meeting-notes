@@ -46,10 +46,16 @@ def hello_world():
 @app.route('/about')
 def about(name=None):
     if name is None:
-        members = [mem.split('about_')[1][:-5].title() for mem in os.listdir('templates') if len(mem.split('about_')) > 1]
-        members.remove('Us')
-        members.remove('Me_Template')
-        return render_template("about_us.html", members=members)
+        template_files = (file.rsplit('.', maxsplit=1)
+                          for file in os.listdir('templates'))
+        non_base_template_filenames = (filename
+                                       for (filename, _) in template_files
+                                       if not filename.endswith('template')
+                                       and filename != 'about_us')
+        member_names = map(
+            lambda filename: filename.replace('about_', '', count=1).title(),
+            non_base_template_filenames)
+        return render_template('about_us.html', members=member_names)
 
     return render_template("about_{0}.html".format(name), user=name)
 
