@@ -57,7 +57,7 @@ def about(name=None):
                                        if not filename.endswith('template')
                                        and filename != 'about_us')
         member_names = map(
-            lambda filename: filename.replace('about_', '', count=1).title(),
+            lambda filename: filename.replace('about_', '', 1).title(),
             non_base_template_filenames)
         return render_template('about_us.html', members=member_names)
 
