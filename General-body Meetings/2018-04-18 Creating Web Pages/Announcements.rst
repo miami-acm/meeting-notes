@@ -2,6 +2,7 @@ Announcements
 =============
 
 * Elections next week!
+* VR Exploration Day on May 2 from 3-5pm
 * E&C Week Banquet by Tau Beta Pi on May 2nd @ 6pm in Armstrong Pavilion A/B
 
     * Tickets are $5 for students and $20 for non-students
