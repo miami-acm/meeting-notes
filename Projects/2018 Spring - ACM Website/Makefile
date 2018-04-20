@@ -30,4 +30,5 @@ stop: .stop-database-server
 
 .start-server:
 	@echo Step 3: Start Python (Flask) server
+	python -m webbrowser "http://localhost:5000/"
 	pipenv run python server.py
