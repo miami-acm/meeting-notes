@@ -23,7 +23,7 @@ News
 
 * Elections are April 25th. Anyone can run for President, Vice-President,
   Secretary, or Treasurer.
-* E&C Week: The more of us, the more points we get.
+* E&C Week: The more of us go, the more points we get.
   The winning club gets ice-cream.
   (`Volunteer Signup Sheet`_)
 
