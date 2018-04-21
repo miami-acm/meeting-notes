@@ -41,6 +41,5 @@ News
         vegetarian risotto
       * Dress is business formal
 
-  * 5/2: Tau Beta Pi Banquet
   * 5/3: Senior Design @ 5-7pm @ EGB
   * 5/4: Alumni Conference
