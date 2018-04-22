@@ -21,7 +21,7 @@ lint:
 	@echo Step 2: Start database server
 	$(if $(shell pg_ctl status | grep "PID"), @echo Database is already started, pg_ctl start)
 
-# TODO: Supress error output from $(shell cat) in Windows environments
+# TODO: Suppress error output from $(shell cat) in Windows environments
 .setup-database:
 	@echo Step 2.1: Set up database server (one time)
 	python setup-database.py | psql -h localhost
