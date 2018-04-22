@@ -23,9 +23,7 @@ lint:
 # TODO: Supress error output from $(shell cat) in Windows environments
 .setup-database:
 	@echo Step 2.1: Set up database server (one time)
-	$(if $(shell cat), \
-		cat .setup-database.txt | psql -h localhost, \
-		type .setup-database.txt | psql -h localhost)
+	python setup-database.py | psql -h localhost
 
 .stop-database-server:
 	@echo Step 4: Stop database server
