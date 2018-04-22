@@ -5,8 +5,9 @@ run: .start-database-server .start-server .stop-database-server
 
 stop: .stop-database-server
 
+# Regarding --max-line-length, only error on excessive PEP8 violations
 lint:
-	pipenv run pycodestyle ./ --ignore=W605
+	pipenv run pycodestyle ./ --ignore=W605,W503 --max-line-length=100
 
 # Download any files not allowed to be stored in this repo for copyright reasons
 .download-assets:
