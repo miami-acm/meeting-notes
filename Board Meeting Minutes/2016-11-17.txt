@@ -1,0 +1,30 @@
+Minutes: Nov. 17th, 2016
+
+Proposed bylaw changes:
+	- check these out in the github: github.com/miami-acm/bylaws
+	- Vote passed unanimously
+
+Good things from this semester:
+	- good topics for meetings
+	- VR demo day
+
+Things to improve on:
+	- Start some projects
+	- Making VR more accessible
+	- More social events
+	- Ask the department if we can do any projects to help them
+
+Thankful for:
+	- Nate: Rust, Us
+	- Cole: VR
+	- Matt: Nano
+	- Nick: Electricity
+	- John: Chocolately, package manager
+	- Steven: Undo button
+	- Kwangju: Alan Turing, Grace Hopper
+	- Python
+	- Echos
+	- Projectors
+	- Infinite Loops
+
+

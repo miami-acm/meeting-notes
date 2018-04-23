@@ -1,6 +1,0 @@
-2-$400
-======
-
-This module allows you to communicate with the OS (e.g Windows or macOS).
-
-.. Answer: What is ``os``?

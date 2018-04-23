@@ -1,0 +1,50 @@
+Meeting Minutes 2016-09-22
+
+It’s my job to record all important information so… 6015
+
+Speaker: Dominic Varacalli from Kroger (Nate’s Manager)
+
+- Works for Kroger digital (Website stuff)
+
+Hiring starts with resume - make sure it’s good.
+  - 1 page
+  - Experience is important. Talk about technologies used, results from it
+  - Talk about what you want to do at the company when giving resume
+  - Make yourself memorable, Recruiters are there for a long time!
+  - Warm up on companies you don’t necessarily care as much about
+
+Kroger Tech
+  - Not just a grocery store, 3rd largest retailer
+  - Lots of systems in store, inventory, registers, website
+  - Stack: Angular and ReactJS, Java Middleware (or Node)
+  - Mostly Java stuff
+  - Uses HackerRank for hiring
+  - They do Whiteboarding too
+
+Behavioral Questions
+  - S.T.A.R.: Situation, Task, Action, Result
+
+Phone Screens
+  - Be Prepped, know key points like what you are good at, what the company does, always find out who you are talking to
+  - Developers who are interviewing you will try to push deeper, want to see if you say that you don’t know that. (It’s good to say you don’t know instead of making stuff up!) 
+  - Walk around for the interview, makes you seem more focused and awake.
+  - Skype screening: wear pants, check to make sure your background is professional
+
+In Person Interviews
+  - At that point you will likely be interviewing with people in the role you want to be in, someone you will report to
+  - Dig straight in on resume, ask about what you’ve done. Looking for if you are technically capable. 
+  - Find out if your manager is going to be good. You want to work for a manager that will help you excel as a new grad. Ask them how they develop people
+
+100 Resumes > 10 Interviews
+
+Average Day as a Programmer
+  - show up between 8 and 9
+  - start day with standup
+  - write code (Kroger does pair programming)
+  - random stuff
+  - end day around 5
+  - some meetings (better companies don’t have a ton)
+
+
+
+  

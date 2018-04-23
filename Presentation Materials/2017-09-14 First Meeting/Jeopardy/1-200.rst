@@ -1,9 +1,0 @@
-1-$200
-======
-
-::
-
-    for x in range(11, 21):
-        print(x)
-
-.. Answer: What is printing the integers from 11 to 21?

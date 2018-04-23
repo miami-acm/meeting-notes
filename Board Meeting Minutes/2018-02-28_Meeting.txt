@@ -1,0 +1,86 @@
+2018-02-28 Exec Meeting Notes
+ - Start Time: 6:02pm
+ 
+ - Attendees:
+ 	- John
+ 	- Tyler
+ 	- Nick W.
+ 	- Nick J.
+ 
+ - Amendments: nil
+ 
+ - Late additions: nil
+ 
+ - Quorum? Yes
+ 
+ - Motions: Approve last meeting's minutes (John) (passed)
+ 			Use ReactMC over Materialize (John) (amended)
+ 			Table the idea of ReactMC vs. Materialize (Nick J.) (passed)
+ 			Host on Digital Ocean, but continue to pursue Miami hosting (passed)
+ 			Motion post our 7-8 meetings as well as any other meeting on the Hub Tyler will do this (John) (passed)
+ 			Motion to not have a preference for an IDE and add links to plugins for TypeScript (John) (passed)
+ 			VR Demo defer to committee consisting of John (due in 5 weeks) (John) (passed)
+ 			Motion to advertise ECE events (John) (passed)
+ 			Open board meetings to members (John) (passed)
+ 						 	 	 	
+ - Notes:
+ 	- Patty will be working on the account balance (Treasurer report)
+ 	- John's ECSC report
+ 		- April 28th - May4th 
+ 			- Want to do a Lego competition and people to join for unity funding.
+ 			- Wednesday -> us along with other "programming" clubs do something
+ 				- VR Demo with Girls Who Code.
+ 				- Once details are finalized we send that to them.
+ 			- Thursday -> looking for people to help set up, clean up, and sign in.
+ 				- Looking for volunteers (advertise it to club?)
+ 			- Friday -> alum conference
+ 				- Want student volunteers to introduce speakers
+ 				- Basically reading a script.
+ 			- Participation prize system
+ 				- More points = more prizes (don't know prizes as of now)
+ 		- Donuts with the dean
+ 			- Want us to advertise it
+ 		- Next fall -> faculty olympics (bean bag races, prizes), they are looking for input
+ 		- Deadlines
+ 			- Meeting times (by March 4th)
+ 			- Ads (by March 16th)
+ 			- Next meeting on March 11th
+ 	
+ 	- Dr. Rao on co-chair
+ 		- He wants to know what the position entails
+ 		- He will be involved if he were to take that position.
+ 		- Still hasen't said a definite yes if we were to formally offer.
+ 	 	
+ 	- Next meetings topic
+ 		- React and materialize
+ 		
+ 	- Hosting website
+ 		- Campbell referred us to the Hub (didn't find much)
+ 		- No answer for hosting on Miami, but we do have the Digital Ocean server
+ 		- Possibly have people locally host it (wouldn't work)
+ 	
+ 	- Text editors
+ 		- Sublime 3
+ 		- Notepad++
+ 		- Brackets
+ 		- Atom
+ 		- Visual Studio Code
+ 		
+ 	- General Body Meeting Website Ideas
+ 		- Ideas for ACM's Website
+ 			1) Repository for useful python scripts
+ 				a) Hitch-hikers guide for python
+ 			2) About us
+ 			3) Pages about each one of our members
+ 			4) Projects Page (where people display their projects, ideas, unfinished code) (JS Packman game)
+ 			5) Jeopardy-style game (points for correct interview questions questions)
+ 			6) Contact / About us Page
+ 			7) News page / Blog
+ 		 	
+ - Tabled Items: ReactMC vs Materialize
+ 
+ - Deferred Items: nil
+ 
+ - Next Meeting Time: 3/07/18
+ 
+ - Adjournment Time: 6:54

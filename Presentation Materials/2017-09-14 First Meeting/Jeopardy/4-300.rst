@@ -1,6 +1,0 @@
-4-$300
-======
-
-The document where it famously states: "Beautiful is better than ugly..."
-
-.. Answer: What is The Zen of Python?

@@ -1,0 +1,32 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 6:00PM @ B.E.S.T. 113
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+    #. Treasurer's Report
+    #. Report on talk with Norm and possible events
+    #. Nick Jarvis's report on whether what's wrong
+       with his registration in the chapter portal
+
+#. Old business
+
+    #. First meeting & semester topic
+    #. Updating the Hub
+    #. Updates on events that we can run this year
+
+#. New business
+
+    #. (None)
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: 6:00PM @ 2/21

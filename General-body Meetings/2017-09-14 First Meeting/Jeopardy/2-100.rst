@@ -1,0 +1,6 @@
+2-$100
+======
+
+This module is good for working with CSV spreadsheets.
+
+.. Answer: What is ``csv``?

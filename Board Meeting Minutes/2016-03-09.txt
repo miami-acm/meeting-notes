@@ -1,0 +1,30 @@
+ACM meeting 3/9/16
+
+Questions about anything?
+	- Arcade machine? Figured out where it is! maybe... It's at Nate's house
+	- Kwangju needs a python gui programmer for his hanoi game, he'll pay for you
+	- One student making a traditional snake game for arcade machine
+	- Devon is making a stock trading game in java
+	- Should we continue getting pizza hut? Stuffed crust pizza for next week, wooooooo
+	- Nate said a veggi pizza sounds awesome
+	- Transitioning from one language to another
+	- Talk about Rust and Piston
+	- Talk about C/C++
+	- Possibly show the worst language ever video
+	- Kwangju has the presentation for his HPC talk
+	- Internet of things
+	- Cryptolocker, ransomware
+	- How to back up your computer
+	- Any hackathons? Not really they are kinda far away
+	- When is next exec transition?
+	- Probably next month
+	- Nate's boss from Kroger is coming to talk about internships, soonish... next month
+	- Talk about bootstrap, and other web dev stuff, like PHP
+	- NCIS 2 idots 1 keybord
+	- IT Crowd
+	- Coding interviews, and example questions
+	- Presentation on Bitcoins and cryptocurrency
+	- Cryptography
+	- Talk about unit testing
+	- Make our own esoteric programming language, ie normL
+	- workshop on LateX

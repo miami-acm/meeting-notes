@@ -1,0 +1,48 @@
+.. Structure modeled after https://www.boardeffect.com/blog/how-to-take-minutes-at-a-board-meeting/
+
+Meeting Minutes
+===============
+
+| ACM @ Miami University
+| Date: March 28, 2018
+
+* Called to order at: 6:02pm
+* Participants and absentees
+
+    * John Meyer: Present
+    * Nick Wayne: Present
+    * Nick Jarvis: Present
+    * Tyler Davis: Present
+
+* Amendments to previous minutes
+* Additions to the current agenda
+* Quorum present
+* Motions
+
+	* Jarvis: To approve meetings minutes (Passed)
+	* John: Work on individual member pages next meeting and the execs have their member pages finished next week (Passed)
+	* John: Allow ECSC rep to come to meeting and talk about volunteering (any week is fine) (Passed)
+
+* Notes
+
+	* Rao
+		* Focus on fostering growth and society (Organization, not a club)
+			* Events to help community (teach older people how to install software, etc.)
+			* Go to conference (He could help make this happen)
+			* Cincinnati Linux Con (Retirement community install linux on computers)
+			* Shadowing of people (Go to business and shadow a developer)
+		* He seemed against our project (use the same stack as Miami)
+			* Using Laravel (PHP Web framework)
+		* Doing different things each week / every other week would increase diversity.
+		* Big thing for him would be trying to forcing us to think differently.
+	
+	* Flack code and everything else is finalized and ready.
+
+* Due dates
+
+	* 2018/04/5: Exec member pages are due next week (Tyler, John, Nick, Nick)
+	* 2018/04/11: PC to Fall Creators update (John)
+	* 2018/04/11: First draft of VR game list (all exec)
+
+* Next meeting time: Wednesday April 4th @ 6 PM in BEN 008
+* Adjournment time: 6:17pm

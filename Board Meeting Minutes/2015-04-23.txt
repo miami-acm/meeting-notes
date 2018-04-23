@@ -1,0 +1,25 @@
+This red head started talking and it was really boring.
+
+Nate has a high scroing system in the works. 
+The info gathered by the NFIC reader is not easy to use. Probably won't be able
+to use the reader. Banner id's can be collected though. That might make it 
+possible to use a database.
+
+The API for the database is ready to go, but the implementation is still being
+worked on.
+
+When will we build the arcade machine:
+	Going to MME lab next Monday to finish assembling
+
+Buttons:
+	Top 3 red
+	bottom 3 black
+	We can lazer cut the button names
+	player 1 and 2 buttons are being places in the middle
+
+games:
+	Super Adventure 2D scroller in 3D
+	Snake
+	Pong
+	Airplane! (the movie)(the game)
+	Centipede

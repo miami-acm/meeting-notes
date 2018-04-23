@@ -1,0 +1,6 @@
+5-$200
+======
+
+Means Python code is never translated into machine-language.
+
+.. Answer: What is an interpreted language?

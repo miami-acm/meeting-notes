@@ -1,6 +1,0 @@
-5-$400
-======
-
-A special Python interpreter that is written in Python.
-
-.. Answer: What is PyPy?

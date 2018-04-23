@@ -1,6 +1,0 @@
-4-$200
-======
-
-The year Python first appeared.
-
-.. Answer: What is 1991?
