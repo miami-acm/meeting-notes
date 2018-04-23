@@ -12,6 +12,7 @@ lint:
 # Download any files not allowed to be stored in this repo for copyright reasons
 .download-assets:
 	@echo Step 0: Download additional online assets
+	curl https://oneclassblog.com/wp-content/uploads/2017/09/Miami_13.jpg -o static/OxfordNice.jpg
 
 .install-python-dependencies:
 	@echo Step 1: Install Python dependencies with Pipenv
