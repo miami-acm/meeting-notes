@@ -2,6 +2,11 @@
 
 sudo apt-get update
 
+if ! command -v git > /dev/null ; then
+    echo "Installing git"
+    sudo apt-get install git -y
+fi
+
 if ! command -v python3 > /dev/null ; then
     # https://www.python.org/
     echo "Installing Python 3"
