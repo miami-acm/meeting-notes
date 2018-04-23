@@ -8,16 +8,16 @@ fi
 
 brew update
 
+if ! command -v git > /dev/null ; then
+    # https://www.python.org/
+    echo "Installing git"
+    brew install git
+fi
+
 if ! command -v python3 > /dev/null ; then
     # https://www.python.org/
     echo "Installing Python 3"
     brew install python3
-fi
-
-if ! command -v pipenv > /dev/null ; then
-    # https://docs.pipenv.org/
-    echo "Installing Pipenv"
-    pip3 install pipenv --user
 fi
 
 if ! command -v pg_ctl > /dev/null ; then
@@ -30,4 +30,10 @@ if ! command -v make > /dev/null ; then
     # https://www.gnu.org/software/make/
     echo "Installing GNU make"
     brew install make
+fi
+
+if ! command -v pipenv > /dev/null ; then
+    # https://docs.pipenv.org/
+    echo "Installing Pipenv"
+    pip3 install pipenv --user
 fi
