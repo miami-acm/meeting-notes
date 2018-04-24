@@ -34,6 +34,8 @@ News
   (`Volunteer Signup Sheet`_)
 
   * 4/28: Lego Competition @ 1-3pm @ GAR 156 (**Free**)
+  * 4/29: Optional prep session for Alumni Networking event
+    `RSVP <https://miamioh.webex.com/miamioh/k2/j.php?MTID=t2a4b8c41b35748d4d243616278035d4e>`_
   * 4/30: Battle of the Brains @ 8-10pm @ Red Zone (**$5 tickets**)
   * 5/1: Girls Who Code/Kode2Learn @ 7-9pm (**Free**)
   * 5/2:
@@ -50,6 +52,8 @@ News
   * 5/3:
 
     * Senior Design Expo @ 5-7pm @ EGB (**Free**)
-    * Alumni Networking Event @ 5-7pm @ BEN 102 (**Free**)
+    * Alumni Networking Event @ 5-7pm @ BEN 102 (**Free**).
+      Light refreshments will be served.
+      (`RSVP requested <https://miamioh.joinhandshake.com/events/141113/share_preview>`_)
 
   * 5/4: Alumni Conference (**Free**)
