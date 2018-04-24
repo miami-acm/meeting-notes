@@ -1,0 +1,28 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 5/2/18 6pm @ BEN 008
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+	#. Treasurer Report
+	#. Any new email from account?
+	#. Exec transition guide updates
+	
+#. Old business
+#. New business
+
+	#. Next weeks meeting topic
+	#. Somebody finishing up code after every meeting so it is ready for the next.
+	#. Girls who code test meeting
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: 4/25/18
