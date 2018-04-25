@@ -72,7 +72,13 @@ else {
     py -3 -m pipenv --version
 }
 
-$PythonVersion = (py -3 --version | grep -Po "(\d)\.(\d)").Replace('.', '')
+$PythonVersion = py -3 --version | grep -Po "(\d)\.(\d)"
+
+if (!($PythonVersion)) {
+    $PythonVersion = py -3 --version | grep -Po "(\\d)\.(\\d)"
+}
+
+$PythonVersion = $PythonVersion.Replace('.', '')
 $PythonUserDirectory = "$($env:APPDATA)\Python\Python$($PythonVersion)\Scripts"
 
 if (!($env:Path.Contains($PythonUserDirectory))) {
