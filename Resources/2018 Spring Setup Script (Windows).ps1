@@ -11,10 +11,20 @@ else {
     scoop --version
 }
 
+scoop bucket add extras
+
 if (!(command git 2> $null)) {
     # https://www.gnu.org/software/make/
-    Write-Output "Installing git"
-    scoop install git
+
+    if (Get-ChildItem "C:\Program Files\Git\bin\git.exe") {
+        (Invoke-WebRequest https://gist.githubusercontent.com/mkropat/c1226e0cc2ca941b23a9/raw/b34d4f3f10ac4e85b9cf937998a1fa930b48389a/EnvPaths.psm1).Content > EnvPaths.psm1
+        Import-Module .\EnvPaths.psm1
+        Add-EnvPath ";C:\Program Files\Git\bin" User
+    }
+    else {
+        Write-Output "Installing git"
+        scoop install git
+    }
 }
 else {
     Write-Output "git is already installed"
