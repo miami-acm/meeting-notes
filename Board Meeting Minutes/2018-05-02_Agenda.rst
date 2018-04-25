@@ -14,13 +14,15 @@ Meeting Agenda
 	#. Treasurer Report
 	#. Any new email from account?
 	#. Exec transition guide updates
-	
+
 #. Old business
 #. New business
 
 	#. Next weeks meeting topic
 	#. Somebody finishing up code after every meeting so it is ready for the next.
 	#. Girls who code test meeting
+	#. Jarvis' email
+	#. Re-register the org
 
 #. Other business
 #. Adjournment (state the time)
