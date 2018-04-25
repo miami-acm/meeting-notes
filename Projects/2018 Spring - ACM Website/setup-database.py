@@ -175,4 +175,4 @@ jeopardy_questions = {
 
 if __name__ == '__main__':
     # TODO: Send to stdout commands for the PostreSQL server
-    print('Use the commands:\npg_ctl start\ncreate database postgres\npsql postgres')
+    print('To populate the database use this command:\npsql -f populate.sql [databaseName]')
