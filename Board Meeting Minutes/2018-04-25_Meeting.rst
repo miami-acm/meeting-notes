@@ -1,0 +1,50 @@
+.. Structure modeled after https://www.boardeffect.com/blog/how-to-take-minutes-at-a-board-meeting/
+
+Meeting Minutes
+===============
+
+| ACM @ Miami University
+| Date: April 25, 2018
+
+* Called to order at: 6:00pm
+* Participants and absentees
+
+    * John Meyer: Present
+    * Nick Wayne: Present
+    * Nick Jarvis: Present
+    * Tyler Davis: Present
+
+* Amendments to previous minutes
+* Additions to the current agenda
+* Quorum present
+* Motions
+
+	* John: Next weeks meeting about finishing the website, polishing it off, and deploying in a 'production' setting. (passed)
+	* John: After every meeting, clean up code and polish everything so it is all consistent (Vice President job) (passed)
+	* John: Set VR up with Girls-who-code some time this weekend (passed)
+	
+* Notes
+	
+	* Treasurer Report
+		* Same as last time ~$1300 in the hole
+	* Emails
+		* Annual ACM report is due
+			* Wants a head count of meetings as well as events we are putting on
+			* Probably found on Chapter portal
+	* Next meetings topic
+		* Deploy server on Digital Ocean, polish off website, and show it off
+	* Re-regester the club eventually.
+
+	* Elections
+		* President: 
+			* Nick Jarvis (winner)
+		* Vice-President: 
+			* Nick Wayne (winner)
+		* Treasurer: 
+			* Jamison (winner)
+		* Secretary:  
+			* Tyler Davis (winner)
+
+* Due dates
+* Next meeting time: Wednesday May 2nd @ 6 PM in BEN 008
+* Adjournment time: 6:27pm
