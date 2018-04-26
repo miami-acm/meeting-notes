@@ -10,35 +10,28 @@ db = SQLAlchemy()
 
 app.config['DEBUG'] = True
 
-USE_DB = False
+url = 'postgresql://localhost/postgres'
+app.config['SQLALCHEMY_DATABASE_URI'] = url
 
-if USE_DB:
-    POSTGRES = {
-        'user': 'jarvisna',
-        'pw': '',
-        'db': 'jarvisna',
-        'host': 'localhost',
-        'port': '5432',
-    }
-
-    app.config['SQLALCHEMY_DATABASE_URI'] = \
-        'postgresql://%(user)s:\%(pw)s@%(host)s:%(port)s/%(db)s' % POSTGRES
-
-    db.init_app(app)
+db.init_app(app)
 
 
 class Question(db.Model):
-    __tablename__ = "questions"
+    __tablename__ = "jeopardy"
     id = db.Column(db.Integer, primary_key=True)
-    question = db.Column(db.String(100), primary_key=True)
-    answer = db.Column(db.String(100), primary_key=True)
+    category = db.Column(db.String(100))
+    price = db.Column(db.Integer)
+    question = db.Column(db.String(100))
+    answer = db.Column(db.String(100))
 
-    def __init__(self, question, answer):
+    def __init__(self, category, price, question, answer):
+        self.category = category
+        self.price = price
         self.question = question
         self.answer = answer
 
     def __repr__(self):
-        return "{}? {}".format(self.question, self.answer)
+        return "{} for {}. {} {}".format(self.category, self.price, self.question, self.answer)
 
 
 @app.route('/')
@@ -72,8 +65,8 @@ def contact():
 
 @app.route('/dbtest')
 def dbtest():
-    print(Question.query.all())
-    return repr(Question.query.all())
+    questions=Question.query.all()
+    return repr(questions[0].category)
 
 
 if __name__ == '__main__':
