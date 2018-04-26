@@ -18,6 +18,8 @@ if ! command -v pg_ctl > /dev/null ; then
     echo "Installing PostgreSQL"
     sudo apt-get install postgresql -y
 
+    export PATH="/usr/lib/postgresql/9.5/bin/:$PATH"
+    # Persist change to PATH
     echo '' >> ~/.bashrc
     echo '# Added by miami-acm/public-materials Setup Script' >> ~/.bashrc
     echo 'export PATH="/usr/lib/postgresql/9.5/bin/:$PATH"' >> ~/.bashrc
