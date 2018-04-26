@@ -18,8 +18,9 @@ if ! command -v pg_ctl > /dev/null ; then
     echo "Installing PostgreSQL"
     sudo apt-get install postgresql -y
 
-    echo '# Added by ACM Setup Script' >> .bash_profile
-    echo 'export PATH="/path/to/dir:$PATH"' >> .bash_profile
+    echo '' >> ~/.bashrc
+    echo '# Added by miami-acm/public-materials Setup Script' >> ~/.bashrc
+    echo 'export PATH="/usr/lib/postgresql/9.5/bin/:$PATH"' >> ~/.bashrc
 fi
 
 if ! command -v make > /dev/null ; then

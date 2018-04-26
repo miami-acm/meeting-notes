@@ -16,7 +16,8 @@ scoop bucket add extras
 if (!(command git 2> $null)) {
     # https://www.gnu.org/software/make/
 
-    if (Get-ChildItem "C:\Program Files\Git\bin\git.exe") {
+    if (Get-ChildItem "C:\Program Files\Git\bin\git.exe" 2> $null) {
+        Write-Output "Adding pre-installed git to PATH"
         (Invoke-WebRequest https://gist.githubusercontent.com/mkropat/c1226e0cc2ca941b23a9/raw/b34d4f3f10ac4e85b9cf937998a1fa930b48389a/EnvPaths.psm1).Content > EnvPaths.psm1
         Import-Module .\EnvPaths.psm1
         Add-EnvPath ";C:\Program Files\Git\bin" User
@@ -85,6 +86,7 @@ else {
 $PythonVersion = py -3 --version | grep -Po "(\d)\.(\d)"
 
 if (!($PythonVersion)) {
+    # Hack for older Powershell versions
     $PythonVersion = py -3 --version | grep -Po "(\\d)\.(\\d)"
 }
 
