@@ -4,7 +4,7 @@ Meeting Agenda
 ==============
 
 | ACM @ Miami University
-| 5/2/18 6pm @ BEN 008
+| 4/25/18 6pm @ BEN 008
 
 #. Call to order (state the time)
 #. Changes to the agenda
@@ -27,4 +27,4 @@ Meeting Agenda
 #. Other business
 #. Adjournment (state the time)
 
-Next meeting: 4/25/18
+Next meeting: 5/2/18
