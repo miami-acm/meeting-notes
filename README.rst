@@ -21,6 +21,12 @@ News
 
 .. _Volunteer Signup Sheet: https://docs.google.com/spreadsheets/d/1OWe5y-Oc25CP0rS2eyURkfCHVjNBCiuBxhXyzM5CBlY/edit?usp=sharing
 .. _Chantal Monnier: monniecs@miamioh.edu
+.. _Job Simulator: https://www.jobsimulatorgame.com/
+.. _Space Pirate Trainer: https://www.spacepiratetrainer.com/
+.. _Zombie Training Simulator: https://store.steampowered.com/app/446620/Zombie_Training_Simulator/
+.. _A-Painter: https://aframe.io/a-painter/
+.. _Google Earth VR: https://store.steampowered.com/app/348250/Google_Earth_VR/
+.. _The Lab: https://store.steampowered.com/app/450390/The_Lab/
 
 * Elections are April 25th. Anyone can run for President, Vice-President,
   Secretary, or Treasurer.
@@ -41,6 +47,14 @@ News
   * 5/2:
 
     * **VR Exploration Day @ 3-5pm @ BEN 009** (**Free**)
+
+      * `Job Simulator`_
+      * `The Lab`_: Longbow
+      * `Google Earth VR`_
+      * `Space Pirate Trainer`_
+      * `Zombie Training Simulator`_
+      * A-Painter_
+
     * E&C Week Banquet by Tau Beta Pi @ Armstrong Pavilion A/B (**$5 tickets**)
 
       * Tickets are $5 for students and $20 for non-students
