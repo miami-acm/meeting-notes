@@ -65,7 +65,7 @@ def contact():
 
 @app.route('/dbtest')
 def dbtest():
-    questions=Question.query.all()
+    questions = Question.query.all()
     return repr(questions[0].category)
 
 
