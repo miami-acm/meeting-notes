@@ -15,8 +15,9 @@ fi
 
 if ! command -v pg_ctl > /dev/null ; then
     # https://www.postgresql.org/
+    # https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
     echo "Installing PostgreSQL"
-    sudo apt-get install postgresql -y
+    sudo apt-get install postgresql postgresql-contrib -y
 
     export PATH="/usr/lib/postgresql/9.5/bin/:$PATH"
     # Persist change to PATH
@@ -24,6 +25,9 @@ if ! command -v pg_ctl > /dev/null ; then
     echo '# Added by miami-acm/public-materials Setup Script' >> ~/.bashrc
     echo 'export PATH="/usr/lib/postgresql/9.5/bin/:$PATH"' >> ~/.bashrc
 fi
+
+echo "Starting PostgreSQL service"
+sudo service postgresql start
 
 if ! command -v make > /dev/null ; then
     # https://www.gnu.org/software/make/
