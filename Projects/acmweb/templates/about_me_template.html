@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>{% block title %}{% endblock %} - Miami Univeristy ACM</title>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    </head>
+    <body style="background: #ddd;">
+        {% block header %}
+        <nav class="nav-extended" style="background-color: #ED293B">
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo">Miami University ACM</a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about">About Us</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Projects</a></li>
+                </ul>
+            </div>
+            <div class="nav-content">
+                <ul class="tabs tabs-transparent hide-on-med-and-up show-on-medium">
+                    <li class="tab"><a href="/">Home</a></li>
+                    <li class="tab"><a href="/about">About Us</a></li>
+                    <li class="tab"><a href="/">Contact</a></li>
+                    <li class="tab"><a href="/">Projects</a></li>
+                </ul>
+            </div>
+        </nav>
+        {% endblock %}
+        <div class="container col s8 offset-s2 z-depth-3" style="background: #fff; padding: 20px">
+            <h1>{% block name %}{% endblock %}</h1>
+            <!-- Image | Student Status
+                 ---------------------
+                 bullet list of interesting things
+            -->
+
+            <div class="row">
+                <div class="col s3">
+                    <img src="{% block image %}{% endblock %}" class="responsive-img">
+                </div>
+                <div class="col s9">
+                    <ul class="browser-default">
+                        {% block student_info %}{% endblock %}
+                    </ul>
+                </div>
+            </div>
+            <div class="col s12">
+                <h3>Interesting Facts About Me</h3>
+                <ul class="browser-default">
+                    {% block facts %}{% endblock %}
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
