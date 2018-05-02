@@ -1,0 +1,72 @@
+.. Structure modeled after https://www.boardeffect.com/blog/how-to-take-minutes-at-a-board-meeting/
+
+Meeting Minutes
+===============
+
+| ACM @ Miami University
+| Date: May 2, 2018
+
+* Called to order at: 6:04pm
+* Participants and absentees
+
+    * John Meyer: Present
+    * Nick Wayne: Present
+    * Nick Jarvis: Present
+    * Tyler Davis: Present
+    * Bennett: Present
+
+* Amendments to previous minutes
+* Additions to the current agenda
+* Quorum present
+* Motions
+
+	* Jarvis: next weeks meeting is Jackbox party pack 2 steam by Jarvis, computer either Nick W. or Bennett (passed)
+	* John: Ask RA's if they have access to cornhole sets (passed)
+	* John: Advertise Frisbee, Football, Volleyball and all other games we add (passed)
+	* John: See if Bennett has a speaker to use (passed)
+	* Jarvis: Nick W. will make playlist of 80's music for speaker if we get one (passed)
+	* Jarvis: Don't ask Norm if there will be kids (passed)
+	* John: Draft of playlist by next Wednesday (passed)
+	* John: John and Bennett are set up, and Nicks are tear down. Anyone else can come if they please (passed)
+	* John: Set up hub at end of board meeting. Nick W. will do this if any issues arise and can't be finished today (passed)
+	* Jarvis: Everyone ask faculty who would be willing to be the vice-chair (passed)
+		
+* Notes
+
+	* Treasurer's Report: ~1300 in the hole
+	* Emails
+		* Need to register (doing this, this meeting)
+	* Next weeks meeting topic (Fun meeting)
+		* VR
+		* Split into two teams and solve problems (mini-hackathon)
+		* Spy fall
+		* Heads up
+		* Space team
+		* Other phone games
+		* Jackbox games
+	* ACM Picnic
+		* Department will acquire food + drinks
+		* We need to ask ASG if we can get any money (nvm)
+		* Norm will cook
+		* We need to check grill (if it is rusted out) (it is)
+		* Tuesday (5 - 9) 
+		* People at 4:15 to help set up.
+		* We need a poster in a pdf, png, or jpeg as a flyer
+		* Decide what we want to do (activities)
+	* ACM Picnic activities
+		* Frisbee's
+		* Football
+		* Volleyball
+		* Cornhole (possibly)
+		* Spikeball (possibly)
+	* Everyone can set-up and tear down if need be	
+		
+* Due dates
+
+	* Jarvis: Have flyer and picture for ACM picnic ready. 5/4/18
+	* Everyone: Ask RA's for cornhole sets 5/4/18
+	* Nick W: Playlist for Picnic due 5/9/18
+	* Everyone: Ask teachers if they would be willing to be the vice-chair 5/9/18
+
+* Next meeting time: Wednesday May 9th @ 6 PM in BEN 008
+* Adjournment time: 
