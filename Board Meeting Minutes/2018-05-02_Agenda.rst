@@ -17,8 +17,15 @@ Meeting Agenda
 #. Old business
 #. New business
 
-	#. Next week meetings topic?
-	#. Get new exec set up on the hub. (Maybe re-register the club as well)
+    #. Next week meetings topic?
+    #. ACM Picnic
+
+        #. Games?
+        #. Music/Speakers?
+        #. Kids?
+
+    #. Get new exec set up on the hub.
+    #. Maybe re-register the club as well
 
 #. Other business
 #. Adjournment (state the time)
