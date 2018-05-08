@@ -22,7 +22,6 @@ lint:
 	echo Step 2: Start database server
 	$(if $(shell pg_ctl status | grep "PID"), echo Database is already started, pg_ctl start)
 
-# TODO: Suppress error output from $(shell cat) in Windows environments
 .setup-database:
 	echo Step 2.1: Set up database server (one time)
 	psql -f populate.sql postgres
