@@ -11,27 +11,27 @@ lint:
 
 # Download any files not allowed to be stored in this repo for copyright reasons
 .download-assets:
-	@echo Step 0: Download additional online assets
+	echo Step 0: Download additional online assets
 	curl https://oneclassblog.com/wp-content/uploads/2017/09/Miami_13.jpg -o static/OxfordNice.jpg
 
 .install-python-dependencies:
-	@echo Step 1: Install Python dependencies with Pipenv
+	echo Step 1: Install Python dependencies with Pipenv
 	pipenv install --dev
 
 .start-database-server:
-	@echo Step 2: Start database server
-	$(if $(shell pg_ctl status | grep "PID"), @echo Database is already started, pg_ctl start)
+	echo Step 2: Start database server
+	$(if $(shell pg_ctl status | grep "PID"), echo Database is already started, pg_ctl start)
 
 # TODO: Suppress error output from $(shell cat) in Windows environments
 .setup-database:
-	@echo Step 2.1: Set up database server (one time)
+	echo Step 2.1: Set up database server (one time)
 	psql -f populate.sql postgres
 
 .stop-database-server:
-	@echo Step 4: Stop database server
-	$(if $(shell pg_ctl status | grep "PID"), pg_ctl stop, @echo Database is already stopped)
+	echo Step 4: Stop database server
+	$(if $(shell pg_ctl status | grep "PID"), pg_ctl stop, echo Database is already stopped)
 
 .start-server:
-	@echo Step 3: Start Python (Flask) server
+	echo Step 3: Start Python (Flask) server
 	python -m webbrowser "http://localhost:5000/"
 	pipenv run python server.py
