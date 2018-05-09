@@ -19,11 +19,11 @@ For Miami Plan, or other disciplines (PHY, BIO, CHM, ECE, MTH, STA), talk to the
   Don't push it back.
   If you are SE major, it is prereq for most of software engineering classes.
 * ISA 406: Instead of taking this course, try engaging with Agile Launchpad, which *waives* ISA 406 requirement if you are SE major.
-  Talk to `Jim Kiper`_ for more inforamtion of applying to it.
+  Talk to `Jim Kiper`_ for more information of applying to it.
 * CSE 271: Object-oriented Programming.
   If you are a first-year student who has not taken this should take 271 for this coming spring.
 * CSE 274: Data Structure.
-  This course is the prerequesite of most of the higher level CSE courses.
+  This course is the prerequisite of most of the higher level CSE courses.
 * CSE 278: Computer Architecture.
   I think they are changing this to different name.
   Required for both.
@@ -42,7 +42,7 @@ For Miami Plan, or other disciplines (PHY, BIO, CHM, ECE, MTH, STA), talk to the
 * CSE 443: High Performance Computing.
   **STRONGLY RECOMMENDED**, if you have taken 381 (Operating System).
   This course teaches you how to program using multi-core microprocessors with multiple threads.
-  Elective for CS, requrired for SE with specific specialization area (check your DAR).
+  Elective for CS, required for SE with specific specialization area (check your DAR).
   For those who want to conduct a research in a graduate school or a lab, or get employed by R & D company, this course will help you a lot.
 * CSE 451: Web Services.
   The course is taught by `Scott Campbell`_.
