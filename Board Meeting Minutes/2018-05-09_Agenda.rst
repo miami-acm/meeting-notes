@@ -1,0 +1,33 @@
+.. Modeled after https://www.boardeffect.com/blog/board-meeting-agenda-format-template/
+
+Meeting Agenda
+==============
+
+| ACM @ Miami University
+| 4/18/18 6pm @ BEN 008
+
+#. Call to order (state the time)
+#. Changes to the agenda
+#. Approval of minutes
+#. Reports
+
+	#. Treasurer Report
+	#. Any new email from account? (Jarvis)
+	#. Teachers willing to be the co-chair (everyone)
+	#. Playlist for picnic (Nick W.)
+	
+#. Old business
+
+	#. Cornhole decision.  (Do we want to do it or not)
+	#. Is all picnic business is in order?
+
+#. New business
+
+	#. Anything we need to do over the summer?
+	#. Possible next topic for next year? (don't have to decide now)
+	#. Do we want to reserve a room for next year now. (ask current members what time works best for them next semester)
+
+#. Other business
+#. Adjournment (state the time)
+
+Next meeting: 4/25/18
