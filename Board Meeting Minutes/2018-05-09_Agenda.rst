@@ -28,6 +28,7 @@ Meeting Agenda
 	#. Possible next topic for next year? (don't have to decide now)
 	#. Do we want to reserve a room for next year now. (ask current members what time works best for them next semester)
 	#. VR not checking into servers properly
+	#. Register for megafair?
 
 #. Other business
 #. Adjournment (state the time)
