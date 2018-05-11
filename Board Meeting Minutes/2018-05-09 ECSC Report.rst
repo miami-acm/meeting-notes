@@ -14,8 +14,7 @@
 * E&C week participation competition was Theta Tau
 * They want our club to send out a survey_ about E&C week ASAP
 * Mega Fair is Wednesday, August 29th 2018
-* CEC Welcome Picnic is Tuesday, September 4th 2018
-  (Rain date: Tuesday, September 11th 2018).
+* **Update:** CEC Welcome Picnic is **Tuesday, September 11th 2018**.
   We need to RSVP_ via Google Form by the end of June.
 
 Due Dates
@@ -25,5 +24,4 @@ Due Dates
 * 5/11: Signup_ deadline for Mega Fair (by 11:45pm)
 * 6/30: RSVP_ to CEC Welcome Picnic
 * 8/29: Mega Fair
-* 9/4: CEC Welcome Picnic
-* 9/11: (CEC Welcome Picnic in case of rain)
+* 9/11: CEC Welcome Picnic (**Updated**)
