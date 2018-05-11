@@ -19,6 +19,8 @@ Table of Contents
 News
 ----
 
+* ACM Picnic is May 15th from 5pm to 9pm at Peffer Park.
+  There will be free music, food, and fun!
 * We had elections on 4/25!
 
   * President: Nick Jarvis
