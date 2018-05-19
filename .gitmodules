@@ -1,0 +1,81 @@
+[submodule "General-body Meetings/2015-02-05 GitHub & FLOSS"]
+	path = General-body Meetings/2015-02-05 GitHub & FLOSS
+	url = https://github.com/miami-acm/github-floss-tutorial
+[submodule "Projects/2015_Spring_Arcade_Machine/arcade-machine-highscore"]
+	path = Projects/2015_Spring_Arcade_Machine/arcade-machine-highscore
+	url = https://github.com/miami-acm/arcade-machine-highscore
+[submodule "Projects/2015_Spring_Arcade_Machine/arcade-machine-mcp"]
+	path = Projects/2015_Spring_Arcade_Machine/arcade-machine-mcp
+	url = https://github.com/miami-acm/arcade-machine-mcp
+[submodule "Projects/2015_Spring_Arcade_Machine/arcade-machine-mcp-gui"]
+	path = Projects/2015_Spring_Arcade_Machine/arcade-machine-mcp-gui
+	url = https://github.com/miami-acm/arcade-machine-mcp-gui
+[submodule "Projects/2015_Spring_Arcade_Machine/arcade-machine-documentation"]
+	path = Projects/2015_Spring_Arcade_Machine/arcade-machine-documentation
+	url = https://github.com/miami-acm/arcade-machine-documentation
+[submodule "General-body Meetings/2015-04-30 Haskell Tutorial"]
+	path = General-body Meetings/2015-04-30 Haskell Tutorial
+	url = https://github.com/miami-acm/haskell-tutorial
+[submodule "General-body Meetings/2015-09-11 C++ Challenge"]
+	path = General-body Meetings/2015-09-11 C++ Challenge
+	url = https://github.com/miami-acm/cppchallenge
+[submodule "General-body Meetings/2016-01-15"]
+	path = General-body Meetings/2016-01-15
+	url = https://github.com/KofiAnnan97/Pixel_Pebble_Watchface
+[submodule "General-body Meetings/2016-01-29 MATLAB Tutorial"]
+	path = General-body Meetings/2016-01-29 MATLAB Tutorial
+	url = https://github.com/miami-acm/matlab-tutorial
+[submodule "General-body Meetings/2016-03-05 OpenMP Tutorial"]
+	path = General-body Meetings/2016-03-05 OpenMP Tutorial
+	url = https://github.com/miami-acm/openmp-tutorial
+[submodule "Projects/2015_Spring_Arcade_Machine/arcade-machine-buttton-api"]
+	path = Projects/2015_Spring_Arcade_Machine/arcade-machine-buttton-api
+	url = https://github.com/miami-acm/arcade-machine-buttton-api
+[submodule "General-body Meetings/2014-10-22 Git Tutorial"]
+	path = General-body Meetings/2014-10-22 Git Tutorial
+	url = https://github.com/miami-acm/git-tutorial
+[submodule "General-body Meetings/2015-09-24 Scala Tutorial"]
+	path = General-body Meetings/2015-09-24 Scala Tutorial
+	url = https://github.com/miami-acm/scala-tutorial
+[submodule "General-body Meetings/2016-10-06 JavaScript Tutorial"]
+	path = General-body Meetings/2016-10-06 JavaScript Tutorial
+	url = https://github.com/mdepero/javascript-tutorial
+[submodule "General-body Meetings/2016-04-20 Python Unit Testing"]
+	path = General-body Meetings/2016-04-20 Python Unit Testing
+	url = https://github.com/miami-acm/unit-testing
+[submodule "General-body Meetings/2016-03-30 Rust Tutorial"]
+	path = General-body Meetings/2016-03-30 Rust Tutorial
+	url = https://github.com/miami-acm/rust-tutorial
+[submodule "General-body Meetings/2014-11-19 Vim Tutorial"]
+	path = General-body Meetings/2014-11-19 Vim Tutorial
+	url = https://github.com/miami-acm/vim-tutorial
+[submodule "General-body Meetings/2017-02-02 Jekyll Tutorial"]
+	path = General-body Meetings/2017-02-02 Jekyll Tutorial
+	url = https://github.com/miami-acm/jekyll
+[submodule "General-body Meetings/2017-02-16 Java Unit Testing"]
+	path = General-body Meetings/2017-02-16 Java Unit Testing
+	url = https://github.com/miami-acm/java-unit-testing
+[submodule "General-body Meetings/2016-11-03 Algorithms Tutorial"]
+	path = General-body Meetings/2016-11-03 Algorithms Tutorial
+	url = https://github.com/miami-acm/algorithm-tutorial
+[submodule "General-body Meetings/2014-10-15 Python Tutorial"]
+	path = General-body Meetings/2014-10-15 Python Tutorial
+	url = https://github.com/miami-acm/python-tutorial
+[submodule "General-body Meetings/2015-05-06 Linux Containers Tutorial"]
+	path = General-body Meetings/2015-05-06 Linux Containers Tutorial
+	url = https://github.com/miami-acm/containers-tutorial
+[submodule "General-body Meetings/2016-04-13 Amazon Echo"]
+	path = General-body Meetings/2016-04-13 Amazon Echo
+	url = https://github.com/miami-acm/amazon-echo
+[submodule "General-body Meetings/2015-09-23 C# Tutorial"]
+	path = "General-body Meetings/2015-09-23 C# Tutorial"
+	url = https://github.com/miami-acm/cs-tutorial
+[submodule "General-body Meetings/2015-10-14 HTML5 Tutorial"]
+	path = General-body Meetings/2015-10-14 HTML5 Tutorial
+	url = https://github.com/miami-acm/html5
+[submodule "Projects/2014_Fall_Do_Something_Awesome_Competition"]
+	path = Projects/2014_Fall_Do_Something_Awesome_Competition
+	url = https://github.com/miami-acm/do-something-awesome
+[submodule "General-body Meetings/2014 Non-Web-Based Presentations"]
+	path = General-body Meetings/2014 Non-Web-Based Presentations
+	url = https://github.com/miami-acm/non-web-based-presentations

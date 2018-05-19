@@ -27,3 +27,11 @@ News
   * Vice-President: Nick Wayne
   * Secretary: Tyler Davis
   * Treasurer: Bennett Goertemiller
+
+Note
+----
+
+When cloning this repo, make sure to run the following::
+
+  cd public-materials/
+  make
