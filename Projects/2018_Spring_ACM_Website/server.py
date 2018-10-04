@@ -67,6 +67,9 @@ def dbtest():
     questions = Question.query.all()
     return repr(questions[0].category)
 
+@app.route('/test')
+def test():
+    return "test"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
